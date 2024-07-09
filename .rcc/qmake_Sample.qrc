@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Sample">
+    <file alias="qmldir">C:/Users/Vaibhav/Desktop/Study/QtProjects/Android_Application/qml/Sample/qmldir</file>
+  </qresource>
+</RCC>
+

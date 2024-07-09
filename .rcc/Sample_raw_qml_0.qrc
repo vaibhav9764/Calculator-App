@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Sample/">
+    <file alias="Constants.qml">C:/Users/Vaibhav/Desktop/Study/QtProjects/Android_Application/Sample/Sample/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/Vaibhav/Desktop/Study/QtProjects/Android_Application/Sample/Sample/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/Vaibhav/Desktop/Study/QtProjects/Android_Application/Sample/Sample/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/Vaibhav/Desktop/Study/QtProjects/Android_Application/Sample/Sample/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+
