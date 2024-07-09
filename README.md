@@ -3,4 +3,6 @@
 # Output
 
 
-![calculator](https://github.com/vaibhav9764/Calculator-App/assets/107663810/9655246e-8aae-42b3-8dff-300d02c91c5b)
+<div align="center">
+  <img src="https://github.com/vaibhav9764/Calculator-App/assets/107663810/9655246e-8aae-42b3-8dff-300d02c91c5b" alt="calculator" width="500" height="1000">
+</div>
